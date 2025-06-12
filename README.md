@@ -1,20 +1,18 @@
 # 📱 Sohbet Uygulamam - Arda & Ahmet
 
-Kullanıcı geçişi yapılabilen, Arda ve Ahmet arasında mesajlaşmayı gösteren Android sohbet uygulaması yaptım.  
-Bu repoda uygulamanın giriş, sohbet ve profil ekranlarının tasarım görselleri yer almaktadır.
+Kullanıcı geçişi yapılabilen, Arda ve Ahmet arasında mesajlaşmayı gösteren Android sohbet uygulaması yaptım.
 
 ---
 
-## 🖼️ 1. Mesajlaşma Ekranı (Arda ve Ahmet)
+##  1. Mesajlaşma Ekranı (Arda ve Ahmet)
 
 ![Mesajlasma](mesajlasma.jpg)
 
-Bu ekran görüntüsünde, Arda ve Ahmet kullanıcıları arasında geçen mesajlaşma gösterilmektedir.  
-İki kullanıcının da mesajları farklı hizalarda ve renklerde gösterilir. Kullanıcılar arasında geçiş yapılabilir.
-
+Uygulamada, Arda ve Ahmet kullanıcıları arasında geçen mesajlaşmalar gösterilmektedir.
+Mesajlar kullanıcıya göre farklı renkte gösterilir ve kullanıcılar arasında geçiş yapılabilir.
 ---
 
-## ✅ 2. Okundu Bilgisi
+##  2. Okundu Bilgisi
 
 ![Okundu](okundu.jpg)
 
@@ -23,20 +21,19 @@ Mesaj okunduğunda sağ alt köşedeki tik işareti **mor** renge dönüşür.
 
 ---
 
-## ✏️ 3. Mesaj Güncelleme
+##  3. Mesaj Güncelleme
 
 ![Guncelleme](guncelleme.jpg)
 
-Kullanıcı, gönderdiği mesajı uzun basarak **güncelleme (düzenleme)** işlemi yapabilir.  
-Bu işlem sonunda mesaj içeriği yenilenmiş olur.
+Kullanıcı, sohbet ekranında mesajın sağ tarafında bulunan üç noktaya tıklayarak düzenle seçeneğini kullanabilir.
+Bu işlemle, gönderdiği mesajın içeriğini güncelleyebilir.
 
 ---
 
-## ❌ 4. Mesaj Silme
+##  4. Mesaj Silme
 
 ![Silme](Silme.jpg)
 
-Kullanıcı, bir mesaja uzun tıkladığında **silme seçeneği** ile mesajı silebilir.  
-Silinen mesaj ekran üzerinden kaybolur.
-
+Kullanıcı, sohbet ekranında mesajın sağ tarafında bulunan üç noktaya tıklayarak sil seçeneğini kullanabilir.
+Bu işlemle, seçilen mesaj silinir 
 ---
