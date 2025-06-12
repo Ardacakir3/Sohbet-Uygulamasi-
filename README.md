@@ -1,4 +1,4 @@
-# 📱 Sohbet Uygulamam - Arda & Ahmet
+#  Sohbet Uygulamam - Arda & Ahmet
 
 Kullanıcı geçişi yapılabilen, Arda ve Ahmet arasında mesajlaşmayı gösteren Android sohbet uygulaması yaptım.
 
