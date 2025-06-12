@@ -34,7 +34,7 @@ Bu işlem sonunda mesaj içeriği yenilenmiş olur.
 
 ## ❌ 4. Mesaj Silme
 
-![Silme](silme.jpg)
+![Silme](Silme.jpg)
 
 Kullanıcı, bir mesaja uzun tıkladığında **silme seçeneği** ile mesajı silebilir.  
 Silinen mesaj ekran üzerinden kaybolur.
