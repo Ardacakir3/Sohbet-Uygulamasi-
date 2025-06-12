@@ -7,7 +7,7 @@ Bu repoda uygulamanın giriş, sohbet ve profil ekranlarının tasarım görsell
 
 ## 🖼️ 1. Mesajlaşma Ekranı (Arda ve Ahmet)
 
-![Mesajlasma](mesajlasma.png)
+![Mesajlasma](mesajlasma.jpg)
 
 Bu ekran görüntüsünde, Arda ve Ahmet kullanıcıları arasında geçen mesajlaşma gösterilmektedir.  
 İki kullanıcının da mesajları farklı hizalarda ve renklerde gösterilir. Kullanıcılar arasında geçiş yapılabilir.
@@ -16,7 +16,7 @@ Bu ekran görüntüsünde, Arda ve Ahmet kullanıcıları arasında geçen mesaj
 
 ## ✅ 2. Okundu Bilgisi
 
-![Okundu](okundu.png)
+![Okundu](okundu.jpg)
 
 Gönderilen mesajın karşı taraf tarafından görülüp görülmediği bu ekranda gösterilir.  
 Mesaj okunduğunda sağ alt köşedeki tik işareti **mor** renge dönüşür.
@@ -25,7 +25,7 @@ Mesaj okunduğunda sağ alt köşedeki tik işareti **mor** renge dönüşür.
 
 ## ✏️ 3. Mesaj Güncelleme
 
-![Guncelleme](guncelleme.png)
+![Guncelleme](guncelleme.jpg)
 
 Kullanıcı, gönderdiği mesajı uzun basarak **güncelleme (düzenleme)** işlemi yapabilir.  
 Bu işlem sonunda mesaj içeriği yenilenmiş olur.
@@ -34,7 +34,7 @@ Bu işlem sonunda mesaj içeriği yenilenmiş olur.
 
 ## ❌ 4. Mesaj Silme
 
-![Silme](silme.png)
+![Silme](silme.jpg)
 
 Kullanıcı, bir mesaja uzun tıkladığında **silme seçeneği** ile mesajı silebilir.  
 Silinen mesaj ekran üzerinden kaybolur.
